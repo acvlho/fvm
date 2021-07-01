@@ -1,6 +1,6 @@
 remote_theme: patdryburgh/hitchens
 
-plugins:
+gems:
   - jekyll-readme-index
 
 readme_index:
